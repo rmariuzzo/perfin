@@ -20,10 +20,10 @@ Work in Progress!
 
 **Features:**
 
-* [DONE] Logger
-* [DONE] ServiceLayer
-* [DONE] RepositoryLayer
-* [DONE] by now just one Entity CRUD using Mongoose.
+* [x] Logger
+* [x] ServiceLayer
+* [x] RepositoryLayer
+* [x] by now just one Entity CRUD using Mongoose.
 
 
 **Running app**
